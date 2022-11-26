@@ -4,7 +4,7 @@
 
 &nbsp;
 
-### an application works with several other components, all running as containers (this repo contains only go app):
+### an application works with several other components, most running as containers (this repo contains only go app):
 - Redis - for storing state and caching temporary data
 - Mosquitto - MQTT broker - core component.
 - Zigbee2Mqtt - passing messages from zigbee devices onto MQTT broker
