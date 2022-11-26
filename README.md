@@ -1,6 +1,7 @@
 # go-mqtt-handler-demo
 
-### demo app using Go language and Paho MQTT library for managing messeges from IoT devices (mostly zigbee but also Tasmota based devices and Arduino like microcontrollers - ESP32, ESP8266 (pure mqtt))
+### example application:
+#### demo app using Go language and Paho MQTT library for managing messeges from IoT devices (mostly zigbee but also Tasmota based devices and Arduino like microcontrollers - ESP32, ESP8266 (pure mqtt))
 
 &nbsp;
 
