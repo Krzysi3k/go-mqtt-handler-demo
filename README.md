@@ -12,6 +12,7 @@
 - Telegram Bot API for push notifications on mobile devices
 - Wireguard - VPN tunnel for accessing our stack from external networks
 - custom REST API for an easy access to Redis db and for managing containers/images
+- Mqtt Dashboard - IoT and Node-RED controller - native client app for Android
 
 &nbsp;
 
